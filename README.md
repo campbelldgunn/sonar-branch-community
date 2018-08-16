@@ -1,5 +1,4 @@
 # Branch Plugin for SonarQube Community Edition
-[![Build Status](https://travis-ci.org/s-pw/sonar-branch-community.svg?branch=master)](https://travis-ci.org/s-pw/sonar-branch-community)
 
 ## Description / Features
 
